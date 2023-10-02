@@ -1,5 +1,5 @@
 # PY4E
-Some of my assignments the Python For Everybody Specialization by University of Michigan, taught by Professor Charles Russell Severance.
+Some of my assignments for the Python For Everybody Specialization by University of Michigan, taught by Professor Charles Russell Severance.
 
 It consists of 5 courses, namely:
 1. Programming for Everybody
