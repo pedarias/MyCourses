@@ -16,4 +16,4 @@ The Specialization covers algorithmic techniques for solving problems arising in
 These projects also allowed me to obtain my:
 - <a href="https://www.coursera.org/account/accomplishments/certificate/PZ46ZV6TXQPF">Algorithmic Toolbox Certificate</a>
 - <a href="https://www.coursera.org/account/accomplishments/certificate/57W9AGETFND2">Data Structures Certificate</a>
-- <a href="https://www.coursera.org/account/accomplishments/certificate/WVUM7XRUVTW4">Data Structures Certificate</a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/WVUM7XRUVTW4">Algorithms on Graphs Certificate</a>
