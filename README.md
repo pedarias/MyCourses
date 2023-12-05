@@ -5,49 +5,23 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 
 ## Course 1 : [Supervised Machine Learning: Regression and Classification ](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
 
-- [Week 1]
-  - [Optional Labs]
-    - [Model Representation]
-    - [Cost Function]
-    - [Gradient Descent]
-
-<br/>
-
-- [Week 2]
-	 - [Optional Labs]
-      - [Numpy Vectorization]
-      - [Multi Variate Regression]
-      - [Feature Scaling]
-      - [Sklearn Gradient Descent]
-      - [Sklearn Normal Method]
-    - [Programming Assignment]
-      - [Linear Regression]
-
-<br/>
-
-- [Week 3]
-    - [Optional Labs]
-        - [Classification]
-        - [Sigmoid Function]
-        - [Decision Boundary]
-        - [Logistic Loss]
-        - [Cost Function]
-        - [Gradient Descent]
-        - [Scikit Learn - Logistic Regression]
-        - [Overfitting]
-        - [Regularization]
-    - [Programming Assignment]
-      - [Logistic Regression]
-
-
 #### [Certification](https://www.coursera.org/account/accomplishments/certificate/W8CAUJ349ATM) 
 
 <br/>
 
 ## Course 2 : [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
-(loading..)
 
+#### [Certification](https://www.coursera.org/account/accomplishments/certificate/DGERNQ47S2TD) 
 
+<br/>
+
+## Course 3 : [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning)
+
+#### [Certification](https://www.coursera.org/account/accomplishments/certificate/E3UDLPNRT6DD) 
+
+<br/>
+
+## [Machine Learning Specialization Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/N2ED7MZSDCXY)
 
 
  
