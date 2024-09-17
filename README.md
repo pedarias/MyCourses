@@ -1,82 +1,81 @@
-# PY4E
-Some of my assignments for the Python For Everybody Specialization by University of Michigan, taught by Professor Charles Russell Severance.
+# MyCourses
 
-It consists of 5 courses, namely:
-1. Programming for Everybody
-2. Python Data Structures
-3. Using Python to Access Web Data
-4. Using Databases with Python
-5. Capstone: Retrieving, Processing, and Visualizing Data with Python
+Este repositório contém os materiais e projetos dos cursos que eu completei em várias plataformas online, incluindo **Coursera**, **IBM**, e outros. Os cursos cobrem tópicos como Python, Machine Learning, Estruturas de Dados e Algoritmos, entre outros.
 
-## Certification
-These projects also allowed me to obtain my <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/QW7JDZP2WCRV">Python for Everybody Specialization Certificate</a> 
-=======
-# IBM-DataScienceEcosystem
-IBM/Coursera Peer-graded Assignment - Data Science Ecosystem
+## Estrutura do Repositório
 
-Assignment Topic:
-I was provided with an empty Jupyterlite notebook which I launched in the course, to complete this assignment. I needed to include a combination of markdown and code cells. I did not needed to use the Markdown cheat sheet to help me determine the appropriate syntax for my markdown.
-Guidelines for the submission:
+Cada curso possui sua própria pasta contendo projetos e materiais desenvolvidos durante o curso. Abaixo está uma breve descrição de cada curso e seus respectivos conteúdos.
 
-There are a total of 25 points possible for this final project.
-I hope I will succeed, based on the following Exercises:
-Exercise 2 - Create a markdown cell with the title of the notebook. (1 pt)
-Exercise 3 - Create a markdown cell for an introduction. (1 pt)
-Exercise 4 - Create a markdown cell to list data science languages. (3 pts)
-Exercise 5 - Create a markdown cell to list data science libraries. (3 pts)
-Exercise 6 - Create a markdown cell with a table of Data Science tools. (3 pts)
-Exercise 7 - Create a markdown cell introducing arithmetic expression examples. (1 pt)
-Exercise 8 - Create a code cell to multiply and add numbers.(2 pts)
-Exercise 9 - Create a code cell to convert minutes to hours. (2 pts)
-Exercise 10 -Insert a markdown cell to list Objectives. (3 pts)
-Exercise 11 - Create a markdown cell to indicate the Author’s name. (2 pts)
-Exercise 12 - Share your notebook through GitHub (3 pts)
-Exercise 13 - Take a screenshot of the first page of the notebook. (1 pt)
-=======
-# Machine Learning Specialization Coursera
+---
 
+## 📘 Python for Everybody (PY4E)
 
-Contains Solutions and Notes for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction/?utm_medium=coursera&utm_source=home-page&utm_campaign=mlslaunch2022IN) by Andrew NG on Coursera 
+O curso **Python for Everybody** aborda os fundamentos de programação com Python, incluindo estruturas de controle, funções, manipulação de arquivos, e uso de bibliotecas como `beautifulsoup`, `json`, e `xml`.
 
-## Course 1 : [Supervised Machine Learning: Regression and Classification ](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
+**Projetos principais:**
+- **Exploring the HyperText Transport Protocol**: Exploração do protocolo HTTP.
+- **Extracting Data from JSON**: Extração de dados usando JSON.
+- **Extracting Data from XML**: Extração de dados usando XML.
+- **Scraping Numbers from HTML using BeautifulSoup**: Web scraping usando `BeautifulSoup`.
+- **Using Databases with Python**: Manipulação de bancos de dados com Python.
 
-#### [Certification](https://www.coursera.org/account/accomplishments/certificate/W8CAUJ349ATM) 
+Todos os projetos estão localizados na pasta: [`PY4E/`](./PY4E)
 
-<br/>
+---
 
-## Course 2 : [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
+## 📊 Python Project for Data Science
 
-#### [Certification](https://www.coursera.org/account/accomplishments/certificate/DGERNQ47S2TD) 
+Este curso oferece uma introdução a projetos de ciência de dados com Python, usando ferramentas como `Pandas` e `Matplotlib` para análise e visualização de dados.
 
-<br/>
+**Projetos principais:**
+- **Extracting and Visualizing Stock Data**: Extração e visualização de dados financeiros.
+- **My Jupyter Notebook on IBM Watson Studio**: Uso do Watson Studio para análise de dados.
+- **Peer-graded Assignment Submitting My Work**: Submissão de tarefas no IBM Watson.
 
-## Course 3 : [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning)
+Todos os projetos estão localizados na pasta: [`Python-Project-for-Data-Science/`](./Python-Project-for-Data-Science)
 
-#### [Certification](https://www.coursera.org/account/accomplishments/certificate/E3UDLPNRT6DD) 
+---
 
-<br/>
+## 🤖 Andrew Ng's Machine Learning Specialization
 
-## [Machine Learning Specialization Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/N2ED7MZSDCXY)
+Este curso, criado por **Andrew Ng**, é uma introdução ao **Machine Learning**. Os tópicos incluem regressão linear, redes neurais, aprendizado supervisionado e não supervisionado.
 
+**Projetos principais:**
+- **Supervised Machine Learning**: Implementações de algoritmos de machine learning supervisionado.
+- **Unsupervised Learning**: Algoritmos de aprendizado não supervisionado.
+- **RegEx**: Uso de expressões regulares para manipulação de strings.
 
+Todos os projetos estão localizados na pasta: [`Andrew-Ng-Machine-Learning-Specialization/`](./Andrew-Ng-Machine-Learning-Specialization)
 
-=======
-# Coursera [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
+---
 
-This repository contains my solutions for the Specialization so far. As I progress on my studies I upload them here.
+## 🛠️ Coursera Data Structures and Algorithms Specialization
 
-These are all coursera courses in Data Structures and Algorithms Specialization.
-- [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
-- [Data Structures](https://www.coursera.org/learn/data-structures)
-- [Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs)
-- [Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings)
-- [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity)
-- [Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes)
+Esta especialização foca em **Estruturas de Dados** e **Algoritmos**, ensinando desde algoritmos básicos até avançados, incluindo técnicas de otimização e design de algoritmos.
 
-The Specialization covers algorithmic techniques for solving problems arising in computer science applications. It is a mix of theory and practice: you will not only design algorithms and estimate their complexity, but you will get a deeper understanding of algorithms by implementing them in the programming language of your choice, Python3 on my case.
+**Projetos principais:**
+- **Advanced Algorithms**: Implementações de algoritmos avançados.
+- **Dynamic Programming**: Soluções otimizadas usando programação dinâmica.
+- **Graph Algorithms**: Implementações de algoritmos de grafos.
 
-## Certification
-These projects also allowed me to obtain my:
-- <a href="https://www.coursera.org/account/accomplishments/certificate/PZ46ZV6TXQPF">Algorithmic Toolbox Certificate</a>
-- <a href="https://www.coursera.org/account/accomplishments/certificate/57W9AGETFND2">Data Structures Certificate</a>
-- <a href="https://www.coursera.org/account/accomplishments/certificate/WVUM7XRUVTW4">Algorithms on Graphs Certificate</a>
+Todos os projetos estão localizados na pasta: [`Coursera_Data_Structures_and_Algorithms_Specialization/`](./Coursera_Data_Structures_and_Algorithms_Specialization)
+
+---
+
+## Como Navegar no Repositório
+
+1. Cada curso tem sua própria pasta no repositório.
+2. Dentro de cada pasta, você encontrará subpastas com os materiais e projetos correspondentes.
+3. O arquivo `README.md` dentro de cada pasta de curso oferece mais detalhes sobre os projetos específicos daquele curso.
+
+---
+
+## Como Contribuir
+
+Este repositório é uma compilação dos meus trabalhos durante esses cursos. Se você deseja sugerir melhorias ou apontar algum problema, fique à vontade para abrir uma issue ou fazer um pull request.
+
+---
+
+## Licença
+
+Este repositório está licenciado sob a [MIT License](./LICENSE). Você pode usar os projetos para fins educacionais e pessoais.
