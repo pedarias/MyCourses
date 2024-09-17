@@ -69,13 +69,3 @@ Todos os projetos estão localizados na pasta: [`Coursera_Data_Structures_and_Al
 3. O arquivo `README.md` dentro de cada pasta de curso oferece mais detalhes sobre os projetos específicos daquele curso.
 
 ---
-
-## Como Contribuir
-
-Este repositório é uma compilação dos meus trabalhos durante esses cursos. Se você deseja sugerir melhorias ou apontar algum problema, fique à vontade para abrir uma issue ou fazer um pull request.
-
----
-
-## Licença
-
-Este repositório está licenciado sob a [MIT License](./LICENSE). Você pode usar os projetos para fins educacionais e pessoais.
